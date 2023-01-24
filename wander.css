@@ -1,0 +1,14 @@
+::selection {
+  background: indigo;
+  color: pink;
+}
+
+:root {
+  background-color: silver;
+  background-image: linear-gradient(.8turn, #ec0, #bee, #ee1);
+  color: #212;
+}
+
+:any-link {
+  color: indigo;
+}

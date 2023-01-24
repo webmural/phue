@@ -1,0 +1,14 @@
+::selection {
+  background: coral;
+  color: black;
+}
+
+:root {
+  background-color: #212;
+  background-image: linear-gradient(.8turn, #313, #128, #318, #212, #318, #212);
+  color: silver;
+}
+
+:any-link {
+  color: lemonchiffon;
+}
